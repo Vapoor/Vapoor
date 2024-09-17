@@ -6,7 +6,9 @@
 
 ## What I learned / Learning so far
 
-- ![Static Badge](https://img.shields.io/badge/C%2B%2B-purple)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+
 
 
 
