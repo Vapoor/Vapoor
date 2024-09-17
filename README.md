@@ -6,4 +6,7 @@
 
 ## What I learned / Learning so far
 
+- ![Static Badge](https://img.shields.io/badge/C%2B%2B-purple)
+
+
 
