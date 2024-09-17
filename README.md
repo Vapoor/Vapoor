@@ -1,7 +1,9 @@
 # About Me ?
 
 - 2nd year BUT Student
-- Passionate about video games, play some of them in a competitive state and also enjoy programming with mainly C++
+- Passionate about video games, play some of them in a competitive state ![Static Badge](https://img.shields.io/badge/Switch-red?logo=nintendoswitch)
+
+- Enjoy programming with C++
 - Big Japan Lover 🇯🇵
 
 ## What I learned / Learning so far
