@@ -1,7 +1,7 @@
 # About Me ?
 
 - 2nd year BUT Student
-- Pasionate of videos games, play some of them in a competitve state and also enjoy programming with mainly C++
+- Passionate about video games, play some of them in a competitive state and also enjoy programming with mainly C++
 - Big Japan Lover 🇯🇵
 
 ## What I learned / Learning so far
@@ -15,7 +15,7 @@
 - Some School Projects
 - Personal Project (Sudoku / Portal prototype)
 
-/!\ If you cant see projects, it mainly means that Im working on it, all the public repositories are often finished projects
+/!\ If you can't see projects, it mainly means that I'm working on it, all the public repositories are often finished projects
 
 #### How you can contact me ?
 ![Static Badge](https://img.shields.io/badge/vaporr-cyan?logo=discord)
