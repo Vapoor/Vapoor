@@ -6,7 +6,7 @@
 - Enjoy programming with C++
 - Big Japan Lover 🇯🇵
 
-## What I learned / Learning so far
+## What do I Learn ?
 
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
