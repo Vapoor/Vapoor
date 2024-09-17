@@ -13,13 +13,13 @@
 ![Static Badge](https://img.shields.io/badge/C-purple?logo=c)
 
 
-### What you can found on my GitHub ?
+## What you can found on my GitHub ?
 - Some School Projects
 - Personal Project (Sudoku / Portal prototype)
 
 /!\ If you can't see projects, it mainly means that I'm working on it, all the public repositories are often finished projects
 
-#### How you can contact me ?
+## How you can contact me ?
 ![Static Badge](https://img.shields.io/badge/vaporr-cyan?logo=discord)
 
 
