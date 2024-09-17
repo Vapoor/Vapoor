@@ -15,6 +15,8 @@
 - Some School Projects
 - Personal Project (Sudoku / Portal prototype)
 
+/!\ If you cant see projects, it mainly means that Im working on it, all the public repositories are often finished projects
+
 #### How you can contact me ?
 ![Static Badge](https://img.shields.io/badge/vaporr-cyan?logo=discord)
 
