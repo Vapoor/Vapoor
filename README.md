@@ -4,5 +4,5 @@
 - Big Japan Lover !
 
 ## What I learned / Learning so far
-![C++](https://img.shields.io/badge/C%2B%2B?style=flat&logo=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Di%26url%3Dhttps%253A%252F%252Ffr.wikipedia.org%252Fwiki%252FC%25252B%25252B%26psig%3DAOvVaw3t2htV-sUatHZTvNg1H6-n%26ust%3D1726654622303000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBEQjRxqFwoTCJjclO3fyYgDFQAAAAAdAAAAABAE&logoColor=%23800080)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fisocpp%2Flogos&psig=AOvVaw1_8WWQvF5fD2LwHADZiIXr&ust=1726654975700000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDD0ZbhyYgDFQAAAAAdAAAAABAE)
 
