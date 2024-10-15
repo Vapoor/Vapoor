@@ -5,7 +5,7 @@
 
 - Enjoy programming with C++
 - Big Japan Lover 🇯🇵
-- Enjoyer of Feixiao (Honkai Star Rail Character)
+- Enjoyer of Kafka <3 (Honkai Star Rail Character)
 
 ## What do I Learn ?
 
