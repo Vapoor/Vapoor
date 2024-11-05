@@ -1,6 +1,6 @@
 # About Me ?
 
-- 2nd year DUT Student
+- 2nd year UIT Student
 - Passionate about video games, play some of them in a competitive state ![Static Badge](https://img.shields.io/badge/Switch-red?logo=nintendoswitch)
 
 - Enjoy programming with C++
