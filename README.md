@@ -3,7 +3,7 @@
 - 2nd year UIT Student
 - Passionate about video games, play some of them in a competitive state ![Static Badge](https://img.shields.io/badge/Switch-red?logo=nintendoswitch)
 
-- Enjoy programming with C++
+- Enjoy programming using a lot of differents languages and frameworks, back-end like front-end !
 - Big Japan Lover 🇯🇵
 - Enjoyer of Kafka <3 (Honkai Star Rail Character)
 
@@ -15,13 +15,14 @@
 
 
 ## What you can found on my GitHub ?
-- Some School Projects
-- Personal Project (Sudoku / Portal prototype)
+- University Projects
+- Personals Projects (osuListener is the most recent one)
 
-/!\ If you can't see projects, it mainly means that I'm working on it, all the public repositories are often finished projects
+
 
 ## How you can contact me ?
 ![Static Badge](https://img.shields.io/badge/vaporr-cyan?logo=discord)
+
 
 
 
