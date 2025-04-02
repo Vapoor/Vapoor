@@ -1,7 +1,7 @@
 # About Me ?
 
-- 2nd year UIT Student
-- Passionate about video games, play some of them in a competitive state![Static Badge](https://img.shields.io/badge/Switch-red?logo=nintendoswitch)
+- 2nd year UIT Full-Stack Developper Student
+- Passionate about video games, play some of them in a competitive state
 
 - Enjoy programming using a lot of differents languages and frameworks, back-end like front-end !
 - Big Japan Lover 🇯🇵
@@ -21,12 +21,14 @@
 
 
 ## What you can found on my GitHub ?
-My Github will have a lot of differents projects, mainly for personnal usage, but could be deployed at any moment.
-- For example my project **__osuListener!__** is a project allowing users to listen to their favorites osu musics directly coming from the game files.
+My Github will have a lot of differents projects, mainly for my personnal usage, but could be deployed at any moment.
+- One that im working on right now is [osu!Listener](https://github.com/Vapoor/osulistener)
+
 
 
 ## How you can contact me ?
-![Static Badge](https://img.shields.io/badge/vaporr-black?logo=discord)
+For now my discord is the most efficient way to contact me : vaporr
+
 
 
 
