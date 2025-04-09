@@ -5,7 +5,7 @@
 
 - Enjoy programming using a lot of differents languages and frameworks, back-end like front-end !
 - Big Japan Lover 🇯🇵
-- Enjoyer of Kafka <3 (Honkai Star Rail Character)
+- Enjoyer of Shorekeeper (Wuthering Waves character)
 
 ## What do/did I Learn(ed) ?
 
