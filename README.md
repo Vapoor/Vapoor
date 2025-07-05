@@ -19,7 +19,7 @@
 
 ## What you can found on my GitHub ?
 My Github will have a lot of differents projects, mainly for my personnal usage, but could be deployed at any moment.
-- The most *polished* one is [osu!Listener](https://github.com/Vapoor/osulistener).
+- The most *polished* one is [GuessTheRank](https://github.com/Vapoor/gmr-strinova)
 
 ## How you can contact me ?
 For now my discord is the most efficient way to contact me : vaporr
