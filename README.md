@@ -19,8 +19,8 @@
 
 ## What you can found on my GitHub ?
 My Github will have a lot of differents projects, mainly for my personnal usage, but could be deployed at any moment.
-- The most *polished* one is [GuessTheRank](https://github.com/Vapoor/gmr-strinova)
-
+- A discord bot made to create a guessmyrank game with Strinova clips : [GuessTheRank](https://github.com/Vapoor/gmr-strinova)
+- A C++ console music player to listen to your favorites songs offline : [Stardust](https://github.com/Vapoor/stardust-music-player)
 ## How you can contact me ?
 For now my discord is the most efficient way to contact me : vaporr
 
