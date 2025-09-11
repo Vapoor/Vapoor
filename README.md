@@ -1,6 +1,6 @@
 # About Me ?
 
-- 3rd year UIT Full-Stack Developper Student
+- 3rd year UIT Full-Stack Developer Student
 - Passionate about video games, play some of them in a competitive state
 
 - Enjoy programming for differents subjects, learning, discovering new horizons.
@@ -23,6 +23,8 @@ My Github will have a lot of differents projects, mainly for my personnal usage,
 - A C++ console music player to listen to your favorites songs offline : [Stardust](https://github.com/Vapoor/stardust-music-player)
 ## How you can contact me ?
 For now my discord is the most efficient way to contact me : vaporr
+Otherwise you can send me a message on my personnal email : kylian.gagnant@orange.fr
+**Please if you message include in your message that you came from my github so I can filter spam.**
 
 
 
