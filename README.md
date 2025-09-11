@@ -22,8 +22,8 @@ My Github will have a lot of differents projects, mainly for my personnal usage,
 - A discord bot made to create a guessmyrank game with Strinova clips : [GuessTheRank](https://github.com/Vapoor/gmr-strinova)
 - A C++ console music player to listen to your favorites songs offline : [Stardust](https://github.com/Vapoor/stardust-music-player)
 ## How you can contact me ?
-For now my discord is the most efficient way to contact me : vaporr
-Otherwise you can send me a message on my personnal email : kylian.gagnant@orange.fr
+For now my discord is the most efficient way to contact me : vaporr  
+Otherwise you can send me a message on my personnal email : kylian.gagnant@orange.fr  
 **Please if you message include in your message that you came from my github so I can filter spam.**
 
 
