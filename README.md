@@ -5,7 +5,7 @@
 
 - Enjoy programming for differents subjects, learning, discovering new horizons.
 - Big Japan Lover 🇯🇵
-- Enjoyer of Penance (Arknighs Character)
+
 
 ## What do/did I Learn(ed) ?
 
@@ -24,7 +24,7 @@ My Github will have a lot of differents projects, mainly for my personnal usage,
 ## How you can contact me ?
 For now my discord is the most efficient way to contact me : vaporr  
 Otherwise you can send me a message on my personnal email : kylian.gagnant@orange.fr  
-**Please if you message include in your message that you came from my github so I can filter spam.**
+**Please if you want to message me, include in your message that you came from my github so I can filter spam.**
 
 
 
