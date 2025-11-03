@@ -37,6 +37,7 @@ Passionate gamer (sometimes competitive), curious learner, and a big admirer of 
 
 ### Currently Exploring
 OpenGL rendering pipeline, low‑level performance patterns in C/C++.
+Unreal Engine 5.6.1 related to AR and VR
 
 ---
 
@@ -44,7 +45,6 @@ OpenGL rendering pipeline, low‑level performance patterns in C/C++.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [GuessTheRank](https://github.com/Vapoor/gmr-strinova) | Discord bot for a “guess my rank” game using Strinova clips. | Python |
 | [Stardust (Console Music Player)](https://github.com/Vapoor/stardust-music-player) | Offline C++ console music player for local playlists. | C++ |
 
 > You’ll also find personal experiments, learning sandboxes, and prototypes that may turn into bigger ideas later.
