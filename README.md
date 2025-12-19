@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Vapor
+# Hi, I'm Vapor
 
 Full‑stack development student (3rd year, UIT) with a strong interest in systems, graphics and building tools, really often around music.  
 Passionate gamer (sometimes competitive), curious learner, and a big admirer of Japanese culture 🇯🇵.
 
 ---
 
-## 🚀 Tech & Skills
+## Tech & Skills
 
 ### Languages
 ![C](https://img.shields.io/badge/C-27338e?logo=c&logoColor=white)
@@ -41,7 +41,7 @@ Unreal Engine 5.6.1 related to AR and VR
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -51,14 +51,14 @@ Unreal Engine 5.6.1 related to AR and VR
 
 ---
 
-## 🧭 Learning Philosophy
+## Learning Philosophy
 I like solving real problems even when the tools aren’t obvious at first. If a solution doesn’t exist or a project needs unfamiliar tech, I’m comfortable diving into a new language, framework, or paradigm to build it myself.  
 Curiosity + delivery > staying in a comfort zone.
 
 ---
 
 
-## 💬 Contact
+## Contact
 
 - Discord (fastest): **vaporr**
 - Email: **kylian.gagnant@orange.fr**
@@ -67,11 +67,11 @@ Curiosity + delivery > staying in a comfort zone.
 
 ---
 
-## 📝 Roadmap
+## Roadmap
 - [Cloud2Gether](https://github.com/Vapoor/cloud2gether) | A web app using React to listen to Soundcloud songs with multiple people at the same time.
 ---
 
-## 📄 License / Reuse
+## License / Reuse
 Unless otherwise specified in a repository, assume code is for personal learning; feel free to open an issue if you’d like to collaborate or adapt something.
 
 ---
